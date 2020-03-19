@@ -1,0 +1,9 @@
+[10-May-2018 08:07:53 UTC] PHP Warning:  require_once(connection.php): failed to open stream: No such file or directory in /home/mydmc001/public_html/schools/Ads/RetrieveAds.php on line 4
+[10-May-2018 08:07:53 UTC] PHP Fatal error:  require_once(): Failed opening required 'connection.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mydmc001/public_html/schools/Ads/RetrieveAds.php on line 4
+[17-Aug-2018 13:22:37 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_schools'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/Ads/RetrieveAds.php on line 13
+[22-Aug-2018 03:46:14 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_schools'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/Ads/RetrieveAds.php on line 13
+[30-Aug-2018 07:11:09 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_schools'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/Ads/RetrieveAds.php on line 13
+[01-Sep-2018 23:53:08 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_schools'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/Ads/RetrieveAds.php on line 13
+[08-Sep-2018 20:46:44 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_schools'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/Ads/RetrieveAds.php on line 13
+[03-Oct-2018 19:05:54 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_schools'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/Ads/RetrieveAds.php on line 13
+[03-Feb-2019 05:05:30 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_schools'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/Ads/RetrieveAds.php on line 13
