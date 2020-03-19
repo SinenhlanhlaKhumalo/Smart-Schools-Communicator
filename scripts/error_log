@@ -1,0 +1,392 @@
+[20-Jul-2018 09:02:06 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/Autodealer/scripts/groups_selection.php on line 4
+[20-Jul-2018 09:02:06 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/functions_retrieve.php on line 64
+[20-Jul-2018 09:24:46 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/Autodealer/scripts/upload.php on line 7
+[20-Jul-2018 09:24:46 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/functions.php on line 72
+[20-Jul-2018 11:24:46 Africa/Johannesburg] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/functions.php on line 6
+[20-Jul-2018 11:24:46 Africa/Johannesburg] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/functions.php on line 10
+[20-Jul-2018 11:24:46 Africa/Johannesburg] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/Autodealer/scripts/notification.php on line 28
+[20-Jul-2018 11:24:46 Africa/Johannesburg] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/notification.php on line 31
+[20-Jul-2018 17:17:11 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/Autodealer/scripts/register.php on line 6
+[20-Jul-2018 17:17:11 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/register.php on line 10
+[20-Jul-2018 17:17:11 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/register.php on line 14
+[20-Jul-2018 17:17:12 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/Autodealer/scripts/register.php on line 6
+[20-Jul-2018 17:17:12 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/register.php on line 10
+[20-Jul-2018 17:17:12 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/register.php on line 14
+[20-Jul-2018 17:17:12 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/Autodealer/scripts/vehicle_retrieve.php on line 5
+[20-Jul-2018 17:17:12 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/functions_retrieve.php on line 36
+[20-Jul-2018 17:17:12 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/functions_retrieve.php on line 56
+[20-Jul-2018 17:17:23 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/Autodealer/scripts/retrieve.php on line 4
+[20-Jul-2018 17:17:23 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/functions_retrieve.php on line 8
+[20-Jul-2018 17:17:25 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/Autodealer/scripts/retrieve.php on line 4
+[20-Jul-2018 17:17:25 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/functions_retrieve.php on line 8
+[20-Jul-2018 17:17:27 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/Autodealer/scripts/retrieve.php on line 4
+[20-Jul-2018 17:17:27 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/functions_retrieve.php on line 8
+[20-Jul-2018 17:17:29 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/Autodealer/scripts/vehicle_retrieve.php on line 5
+[20-Jul-2018 17:17:29 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/functions_retrieve.php on line 36
+[20-Jul-2018 17:17:29 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/functions_retrieve.php on line 56
+[20-Jul-2018 17:18:14 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/Autodealer/scripts/retrieve.php on line 4
+[20-Jul-2018 17:18:14 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/functions_retrieve.php on line 8
+[20-Jul-2018 17:18:17 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/Autodealer/scripts/retrieve.php on line 4
+[20-Jul-2018 17:18:17 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/functions_retrieve.php on line 8
+[20-Jul-2018 17:18:18 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/Autodealer/scripts/retrieve.php on line 4
+[20-Jul-2018 17:18:18 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/functions_retrieve.php on line 8
+[20-Jul-2018 17:18:21 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/Autodealer/scripts/retrieve.php on line 4
+[20-Jul-2018 17:18:21 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/functions_retrieve.php on line 8
+[20-Jul-2018 17:18:22 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/Autodealer/scripts/retrieve.php on line 4
+[20-Jul-2018 17:18:22 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/functions_retrieve.php on line 8
+[20-Jul-2018 17:18:23 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/Autodealer/scripts/retrieve.php on line 4
+[20-Jul-2018 17:18:23 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/functions_retrieve.php on line 8
+[20-Jul-2018 17:18:24 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/Autodealer/scripts/retrieve.php on line 4
+[20-Jul-2018 17:18:24 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/functions_retrieve.php on line 8
+[20-Jul-2018 17:18:31 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/Autodealer/scripts/vehicle_retrieve.php on line 5
+[20-Jul-2018 17:18:31 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/functions_retrieve.php on line 36
+[20-Jul-2018 17:18:31 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/functions_retrieve.php on line 56
+[20-Jul-2018 17:20:28 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/Autodealer/scripts/filtering_vehicles.php on line 4
+[20-Jul-2018 17:20:28 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/filtering_functions.php on line 34
+[20-Jul-2018 17:20:41 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/Autodealer/scripts/filtering_vehicles.php on line 4
+[20-Jul-2018 17:20:41 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/filtering_functions.php on line 34
+[20-Jul-2018 17:20:55 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/Autodealer/scripts/filtering_vehicles.php on line 4
+[20-Jul-2018 17:20:55 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/filtering_functions.php on line 34
+[20-Jul-2018 17:21:09 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/Autodealer/scripts/retrieve.php on line 4
+[20-Jul-2018 17:21:09 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/functions_retrieve.php on line 8
+[20-Jul-2018 17:21:10 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/Autodealer/scripts/retrieve.php on line 4
+[20-Jul-2018 17:21:10 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/functions_retrieve.php on line 8
+[21-Jul-2018 00:52:03 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/Autodealer/scripts/vehicle.php on line 7
+[21-Jul-2018 00:52:03 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/vehicle.php on line 55
+[21-Jul-2018 00:52:03 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/vehicle.php on line 75
+[21-Jul-2018 06:51:03 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/Autodealer/scripts/insert_coordinates.php on line 8
+[21-Jul-2018 06:51:03 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/insert_coordinates.php on line 12
+[21-Jul-2018 06:51:03 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/insert_coordinates.php on line 16
+[21-Jul-2018 12:02:34 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/Autodealer/scripts/filtering_vehicles.php on line 4
+[21-Jul-2018 12:02:34 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/filtering_functions.php on line 34
+[22-Jul-2018 06:44:50 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/Autodealer/scripts/vehicle_retrieve.php on line 5
+[22-Jul-2018 06:44:50 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/functions_retrieve.php on line 36
+[22-Jul-2018 06:44:50 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/functions_retrieve.php on line 56
+[22-Jul-2018 06:44:50 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/Autodealer/scripts/register.php on line 6
+[22-Jul-2018 06:44:50 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/register.php on line 10
+[22-Jul-2018 06:44:50 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/register.php on line 14
+[22-Jul-2018 06:44:58 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/Autodealer/scripts/vehicle_retrieve.php on line 5
+[22-Jul-2018 06:44:58 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/functions_retrieve.php on line 36
+[22-Jul-2018 06:44:58 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/functions_retrieve.php on line 56
+[22-Jul-2018 06:45:04 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/Autodealer/scripts/filtering_vehicles.php on line 4
+[22-Jul-2018 06:45:04 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/filtering_functions.php on line 34
+[22-Jul-2018 06:45:08 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/Autodealer/scripts/retrieve.php on line 4
+[22-Jul-2018 06:45:08 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/functions_retrieve.php on line 8
+[22-Jul-2018 06:45:10 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/Autodealer/scripts/retrieve.php on line 4
+[22-Jul-2018 06:45:10 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/functions_retrieve.php on line 8
+[22-Jul-2018 06:45:13 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/Autodealer/scripts/retrieve.php on line 4
+[22-Jul-2018 06:45:13 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/functions_retrieve.php on line 8
+[22-Jul-2018 06:45:18 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/Autodealer/scripts/vehicle_retrieve.php on line 5
+[22-Jul-2018 06:45:18 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/functions_retrieve.php on line 36
+[22-Jul-2018 06:45:18 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/functions_retrieve.php on line 56
+[22-Jul-2018 06:45:25 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/Autodealer/scripts/filtering_vehicles.php on line 4
+[22-Jul-2018 06:45:25 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/filtering_functions.php on line 34
+[22-Jul-2018 06:45:27 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/Autodealer/scripts/filtering_vehicles.php on line 4
+[22-Jul-2018 06:45:27 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/filtering_functions.php on line 34
+[22-Jul-2018 06:45:28 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/Autodealer/scripts/filtering_vehicles.php on line 4
+[22-Jul-2018 06:45:28 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/filtering_functions.php on line 34
+[22-Jul-2018 09:58:42 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/Autodealer/scripts/register.php on line 6
+[22-Jul-2018 09:58:42 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/register.php on line 10
+[22-Jul-2018 09:58:42 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/register.php on line 14
+[22-Jul-2018 10:43:27 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/Autodealer/scripts/staff_register.php on line 6
+[22-Jul-2018 10:43:27 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/staff_register.php on line 15
+[23-Jul-2018 12:43:31 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/Autodealer/scripts/newUser.php on line 5
+[23-Jul-2018 12:43:31 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/functions.php on line 17
+[23-Jul-2018 12:43:31 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/functions.php on line 25
+[23-Jul-2018 12:43:31 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/functions.php on line 30
+[23-Jul-2018 13:52:43 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/Autodealer/scripts/test.php on line 5
+[23-Jul-2018 13:52:43 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/test.php on line 15
+[23-Jul-2018 19:11:30 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/Autodealer/scripts/register.php on line 6
+[23-Jul-2018 19:11:30 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/register.php on line 10
+[23-Jul-2018 19:11:30 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/register.php on line 14
+[24-Jul-2018 00:18:42 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/Autodealer/scripts/groups_selection.php on line 4
+[24-Jul-2018 00:18:42 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/functions_retrieve.php on line 64
+[24-Jul-2018 13:17:25 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/Autodealer/scripts/send.php on line 6
+[24-Jul-2018 15:17:26 Africa/Johannesburg] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/functions_message.php on line 60
+[24-Jul-2018 15:17:26 Africa/Johannesburg] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/functions_message.php on line 45
+[24-Jul-2018 15:17:26 Africa/Johannesburg] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/functions_message.php on line 6
+[24-Jul-2018 15:17:26 Africa/Johannesburg] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/functions_message.php on line 18
+[24-Jul-2018 15:17:26 Africa/Johannesburg] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/Autodealer/scripts/functions_message.php on line 32
+[24-Jul-2018 15:17:26 Africa/Johannesburg] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/functions_message.php on line 35
+[24-Jul-2018 15:17:26 Africa/Johannesburg] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/Autodealer/scripts/notification.php on line 28
+[24-Jul-2018 15:17:26 Africa/Johannesburg] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/notification.php on line 31
+[24-Jul-2018 14:22:56 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/Autodealer/scripts/retrieve_coordinates.php on line 3
+[24-Jul-2018 14:22:56 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/retrieve_coordinates.php on line 11
+[24-Jul-2018 18:54:05 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/Autodealer/scripts/register.php on line 6
+[24-Jul-2018 18:54:05 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/register.php on line 10
+[24-Jul-2018 18:54:05 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/register.php on line 14
+[24-Jul-2018 18:54:05 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/Autodealer/scripts/register.php on line 6
+[24-Jul-2018 18:54:05 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/register.php on line 10
+[24-Jul-2018 18:54:05 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/register.php on line 14
+[24-Jul-2018 18:54:05 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/Autodealer/scripts/vehicle_retrieve.php on line 5
+[24-Jul-2018 18:54:05 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/functions_retrieve.php on line 36
+[24-Jul-2018 18:54:05 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/functions_retrieve.php on line 56
+[24-Jul-2018 18:54:50 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/Autodealer/scripts/register.php on line 6
+[24-Jul-2018 18:54:50 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/register.php on line 10
+[24-Jul-2018 18:54:50 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/register.php on line 14
+[24-Jul-2018 18:54:50 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/Autodealer/scripts/vehicle_retrieve.php on line 5
+[24-Jul-2018 18:54:50 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/functions_retrieve.php on line 36
+[24-Jul-2018 18:54:50 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/functions_retrieve.php on line 56
+[24-Jul-2018 18:54:50 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/Autodealer/scripts/vehicle_retrieve.php on line 5
+[24-Jul-2018 18:54:50 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/functions_retrieve.php on line 36
+[24-Jul-2018 18:54:50 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/functions_retrieve.php on line 56
+[24-Jul-2018 18:54:54 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/Autodealer/scripts/retrieve.php on line 4
+[24-Jul-2018 18:54:54 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/functions_retrieve.php on line 8
+[24-Jul-2018 18:54:56 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/Autodealer/scripts/retrieve.php on line 4
+[24-Jul-2018 18:54:56 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/functions_retrieve.php on line 8
+[24-Jul-2018 18:54:58 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/Autodealer/scripts/retrieve.php on line 4
+[24-Jul-2018 18:54:58 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/functions_retrieve.php on line 8
+[24-Jul-2018 18:55:11 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/Autodealer/scripts/vehicle_retrieve.php on line 5
+[24-Jul-2018 18:55:11 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/functions_retrieve.php on line 36
+[24-Jul-2018 18:55:11 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/Autodealer/scripts/functions_retrieve.php on line 56
+[25-Jul-2018 02:02:42 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/Autodealer/scripts/userselection.php on line 4
+[11-Aug-2018 06:10:39 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/subscribe.php on line 5
+[11-Aug-2018 06:10:39 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/subscribe_functions.php on line 7
+[11-Aug-2018 06:10:39 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/subscribe_functions.php on line 15
+[13-Aug-2018 21:46:17 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/upload.php on line 7
+[13-Aug-2018 21:46:17 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions.php on line 72
+[13-Aug-2018 23:46:17 Africa/Johannesburg] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions.php on line 6
+[13-Aug-2018 23:46:17 Africa/Johannesburg] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions.php on line 10
+[13-Aug-2018 23:46:17 Africa/Johannesburg] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/notification.php on line 28
+[13-Aug-2018 23:46:17 Africa/Johannesburg] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/notification.php on line 31
+[15-Aug-2018 03:52:02 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/send.php on line 6
+[15-Aug-2018 05:52:02 Africa/Johannesburg] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions_message.php on line 60
+[15-Aug-2018 05:52:02 Africa/Johannesburg] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions_message.php on line 45
+[15-Aug-2018 05:52:02 Africa/Johannesburg] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions_message.php on line 6
+[15-Aug-2018 05:52:02 Africa/Johannesburg] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions_message.php on line 18
+[15-Aug-2018 05:52:02 Africa/Johannesburg] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/functions_message.php on line 32
+[15-Aug-2018 05:52:02 Africa/Johannesburg] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions_message.php on line 35
+[15-Aug-2018 05:52:02 Africa/Johannesburg] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/notification.php on line 28
+[15-Aug-2018 05:52:02 Africa/Johannesburg] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/notification.php on line 31
+[15-Aug-2018 22:20:34 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/send.php on line 6
+[16-Aug-2018 00:20:34 Africa/Johannesburg] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions_message.php on line 60
+[16-Aug-2018 00:20:34 Africa/Johannesburg] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions_message.php on line 45
+[16-Aug-2018 00:20:34 Africa/Johannesburg] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions_message.php on line 6
+[16-Aug-2018 00:20:34 Africa/Johannesburg] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions_message.php on line 18
+[16-Aug-2018 00:20:34 Africa/Johannesburg] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/functions_message.php on line 32
+[16-Aug-2018 00:20:34 Africa/Johannesburg] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions_message.php on line 35
+[16-Aug-2018 00:20:34 Africa/Johannesburg] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/notification.php on line 28
+[16-Aug-2018 00:20:34 Africa/Johannesburg] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/notification.php on line 31
+[16-Aug-2018 11:32:31 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/userselection.php on line 4
+[16-Aug-2018 17:22:05 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/upload.php on line 7
+[16-Aug-2018 17:22:05 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions.php on line 72
+[16-Aug-2018 19:22:05 Africa/Johannesburg] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions.php on line 6
+[16-Aug-2018 19:22:05 Africa/Johannesburg] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions.php on line 10
+[16-Aug-2018 19:22:05 Africa/Johannesburg] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/notification.php on line 28
+[16-Aug-2018 19:22:05 Africa/Johannesburg] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/notification.php on line 31
+[16-Aug-2018 19:24:12 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/devices.php on line 4
+[16-Aug-2018 19:24:12 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions.php on line 38
+[16-Aug-2018 19:24:12 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions.php on line 55
+[16-Aug-2018 22:28:32 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/vehicle_retrieve.php on line 5
+[16-Aug-2018 22:28:32 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions_retrieve.php on line 36
+[16-Aug-2018 22:28:32 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions_retrieve.php on line 56
+[17-Aug-2018 01:24:28 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/newUser.php on line 5
+[17-Aug-2018 01:24:28 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions.php on line 17
+[17-Aug-2018 01:24:28 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions.php on line 25
+[17-Aug-2018 01:24:28 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions.php on line 30
+[17-Aug-2018 05:58:38 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/subscribe.php on line 5
+[17-Aug-2018 05:58:38 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/subscribe_functions.php on line 7
+[17-Aug-2018 05:58:38 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/subscribe_functions.php on line 15
+[17-Aug-2018 09:10:20 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/retrieve_coordinates.php on line 3
+[17-Aug-2018 09:10:20 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/retrieve_coordinates.php on line 11
+[17-Aug-2018 09:11:57 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/send.php on line 6
+[17-Aug-2018 11:11:57 Africa/Johannesburg] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions_message.php on line 60
+[17-Aug-2018 11:11:57 Africa/Johannesburg] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions_message.php on line 45
+[17-Aug-2018 11:11:57 Africa/Johannesburg] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions_message.php on line 6
+[17-Aug-2018 11:11:57 Africa/Johannesburg] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions_message.php on line 18
+[17-Aug-2018 11:11:57 Africa/Johannesburg] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/functions_message.php on line 32
+[17-Aug-2018 11:11:57 Africa/Johannesburg] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions_message.php on line 35
+[17-Aug-2018 11:11:57 Africa/Johannesburg] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/notification.php on line 28
+[17-Aug-2018 11:11:57 Africa/Johannesburg] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/notification.php on line 31
+[17-Aug-2018 09:13:34 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/insert_coordinates.php on line 8
+[17-Aug-2018 09:13:34 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/insert_coordinates.php on line 12
+[17-Aug-2018 09:13:34 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/insert_coordinates.php on line 16
+[17-Aug-2018 09:15:12 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/userselection.php on line 4
+[17-Aug-2018 09:18:37 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/vehicle.php on line 7
+[17-Aug-2018 09:18:37 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/vehicle.php on line 55
+[17-Aug-2018 09:18:37 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/vehicle.php on line 75
+[17-Aug-2018 09:20:02 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/newUser.php on line 5
+[17-Aug-2018 09:20:02 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions.php on line 17
+[17-Aug-2018 09:20:02 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions.php on line 25
+[17-Aug-2018 09:20:02 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions.php on line 30
+[17-Aug-2018 09:24:52 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/test.php on line 5
+[17-Aug-2018 09:24:52 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/test.php on line 15
+[17-Aug-2018 09:26:29 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/devices.php on line 4
+[17-Aug-2018 09:26:29 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions.php on line 38
+[17-Aug-2018 09:26:29 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions.php on line 55
+[17-Aug-2018 09:44:14 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/trash_vehicle.php on line 4
+[17-Aug-2018 09:44:14 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/trash_vehicle.php on line 9
+[17-Aug-2018 09:44:14 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/trash_vehicle.php on line 17
+[17-Aug-2018 09:45:51 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/upload.php on line 7
+[17-Aug-2018 09:45:51 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions.php on line 72
+[17-Aug-2018 11:45:51 Africa/Johannesburg] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions.php on line 6
+[17-Aug-2018 11:45:51 Africa/Johannesburg] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions.php on line 10
+[17-Aug-2018 11:45:51 Africa/Johannesburg] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/notification.php on line 28
+[17-Aug-2018 11:45:51 Africa/Johannesburg] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/notification.php on line 31
+[17-Aug-2018 09:47:28 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/vehicle_retrieve.php on line 5
+[17-Aug-2018 09:47:28 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions_retrieve.php on line 36
+[17-Aug-2018 09:47:28 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions_retrieve.php on line 56
+[17-Aug-2018 09:49:05 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/staff_register.php on line 6
+[17-Aug-2018 09:49:05 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/staff_register.php on line 15
+[17-Aug-2018 09:52:19 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/register.php on line 6
+[17-Aug-2018 09:52:19 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/register.php on line 10
+[17-Aug-2018 09:52:19 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/register.php on line 14
+[18-Aug-2018 07:42:38 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/vehicle.php on line 7
+[18-Aug-2018 07:42:38 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/vehicle.php on line 55
+[18-Aug-2018 07:42:38 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/vehicle.php on line 75
+[18-Aug-2018 11:47:09 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/filtering_vehicles.php on line 4
+[18-Aug-2018 11:47:09 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/filtering_functions.php on line 34
+[19-Aug-2018 12:38:23 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/groups_selection.php on line 4
+[19-Aug-2018 12:38:23 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions_retrieve.php on line 64
+[19-Aug-2018 22:13:24 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/trash_vehicle.php on line 4
+[19-Aug-2018 22:13:24 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/trash_vehicle.php on line 9
+[19-Aug-2018 22:13:24 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/trash_vehicle.php on line 17
+[20-Aug-2018 00:24:04 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/retrieve_coordinates.php on line 3
+[20-Aug-2018 00:24:04 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/retrieve_coordinates.php on line 11
+[20-Aug-2018 06:34:31 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/register.php on line 6
+[20-Aug-2018 06:34:31 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/register.php on line 10
+[20-Aug-2018 06:34:31 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/register.php on line 14
+[20-Aug-2018 14:47:46 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/retrieve.php on line 4
+[20-Aug-2018 14:47:46 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions_retrieve.php on line 8
+[21-Aug-2018 13:42:23 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/staff_register.php on line 6
+[21-Aug-2018 13:42:23 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/staff_register.php on line 15
+[22-Aug-2018 11:13:23 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/insert_coordinates.php on line 8
+[22-Aug-2018 11:13:23 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/insert_coordinates.php on line 12
+[22-Aug-2018 11:13:23 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/insert_coordinates.php on line 16
+[22-Aug-2018 20:42:56 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/test.php on line 5
+[22-Aug-2018 20:42:56 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/test.php on line 15
+[23-Aug-2018 10:39:49 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/send.php on line 6
+[23-Aug-2018 12:39:49 Africa/Johannesburg] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions_message.php on line 60
+[23-Aug-2018 12:39:49 Africa/Johannesburg] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions_message.php on line 45
+[23-Aug-2018 12:39:49 Africa/Johannesburg] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions_message.php on line 6
+[23-Aug-2018 12:39:49 Africa/Johannesburg] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions_message.php on line 18
+[23-Aug-2018 12:39:49 Africa/Johannesburg] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/functions_message.php on line 32
+[23-Aug-2018 12:39:49 Africa/Johannesburg] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions_message.php on line 35
+[23-Aug-2018 12:39:49 Africa/Johannesburg] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/notification.php on line 28
+[23-Aug-2018 12:39:49 Africa/Johannesburg] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/notification.php on line 31
+[24-Aug-2018 04:16:44 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/insert_coordinates.php on line 8
+[24-Aug-2018 04:16:44 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/insert_coordinates.php on line 12
+[24-Aug-2018 04:16:44 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/insert_coordinates.php on line 16
+[24-Aug-2018 05:29:06 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/test.php on line 5
+[24-Aug-2018 05:29:06 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/test.php on line 15
+[24-Aug-2018 11:10:23 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/newUser.php on line 5
+[24-Aug-2018 11:10:23 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions.php on line 17
+[24-Aug-2018 11:10:23 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions.php on line 25
+[24-Aug-2018 11:10:23 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions.php on line 30
+[24-Aug-2018 13:52:00 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/upload.php on line 7
+[24-Aug-2018 13:52:00 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions.php on line 72
+[24-Aug-2018 15:52:00 Africa/Johannesburg] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions.php on line 6
+[24-Aug-2018 15:52:00 Africa/Johannesburg] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions.php on line 10
+[24-Aug-2018 15:52:00 Africa/Johannesburg] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/notification.php on line 28
+[24-Aug-2018 15:52:00 Africa/Johannesburg] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/notification.php on line 31
+[24-Aug-2018 17:51:26 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/devices.php on line 4
+[24-Aug-2018 17:51:26 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions.php on line 38
+[24-Aug-2018 17:51:26 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions.php on line 55
+[24-Aug-2018 19:14:24 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/subscribe.php on line 5
+[24-Aug-2018 19:14:24 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/subscribe_functions.php on line 7
+[24-Aug-2018 19:14:24 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/subscribe_functions.php on line 15
+[25-Aug-2018 07:32:41 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/userselection.php on line 4
+[25-Aug-2018 14:23:34 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/retrieve_coordinates.php on line 3
+[25-Aug-2018 14:23:34 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/retrieve_coordinates.php on line 11
+[25-Aug-2018 20:13:49 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/vehicle.php on line 7
+[25-Aug-2018 20:13:49 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/vehicle.php on line 55
+[25-Aug-2018 20:13:49 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/vehicle.php on line 75
+[26-Aug-2018 23:45:36 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/test.php on line 5
+[26-Aug-2018 23:45:36 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/test.php on line 15
+[27-Aug-2018 06:16:27 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/filtering_vehicles.php on line 4
+[27-Aug-2018 06:16:27 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/filtering_functions.php on line 34
+[27-Aug-2018 13:35:09 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/trash_vehicle.php on line 4
+[27-Aug-2018 13:35:09 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/trash_vehicle.php on line 9
+[27-Aug-2018 13:35:09 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/trash_vehicle.php on line 17
+[27-Aug-2018 23:16:37 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/register.php on line 6
+[27-Aug-2018 23:16:37 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/register.php on line 10
+[27-Aug-2018 23:16:37 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/register.php on line 14
+[27-Aug-2018 23:33:11 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/retrieve_coordinates.php on line 3
+[27-Aug-2018 23:33:11 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/retrieve_coordinates.php on line 11
+[28-Aug-2018 02:25:55 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/groups_selection.php on line 4
+[28-Aug-2018 02:25:55 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions_retrieve.php on line 64
+[28-Aug-2018 08:43:49 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/retrieve.php on line 4
+[28-Aug-2018 08:43:49 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions_retrieve.php on line 8
+[29-Aug-2018 17:38:25 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/staff_register.php on line 6
+[29-Aug-2018 17:38:25 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/staff_register.php on line 15
+[31-Aug-2018 02:32:20 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/register.php on line 6
+[31-Aug-2018 02:32:20 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/register.php on line 10
+[31-Aug-2018 02:32:20 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/register.php on line 14
+[31-Aug-2018 03:42:00 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/vehicle.php on line 7
+[31-Aug-2018 03:42:00 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/vehicle.php on line 55
+[31-Aug-2018 03:42:00 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/vehicle.php on line 75
+[31-Aug-2018 10:21:45 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/retrieve.php on line 4
+[31-Aug-2018 10:21:45 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions_retrieve.php on line 8
+[31-Aug-2018 16:06:25 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/userselection.php on line 4
+[31-Aug-2018 16:57:46 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/newUser.php on line 5
+[31-Aug-2018 16:57:46 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions.php on line 17
+[31-Aug-2018 16:57:46 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions.php on line 25
+[31-Aug-2018 16:57:46 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions.php on line 30
+[31-Aug-2018 21:25:26 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/devices.php on line 4
+[31-Aug-2018 21:25:26 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions.php on line 38
+[31-Aug-2018 21:25:26 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions.php on line 55
+[01-Sep-2018 00:47:06 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/groups_selection.php on line 4
+[01-Sep-2018 00:47:06 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions_retrieve.php on line 64
+[02-Sep-2018 01:21:08 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/trash_vehicle.php on line 4
+[02-Sep-2018 01:21:08 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/trash_vehicle.php on line 9
+[02-Sep-2018 01:21:08 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/trash_vehicle.php on line 17
+[02-Sep-2018 01:50:28 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/vehicle_retrieve.php on line 5
+[02-Sep-2018 01:50:28 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions_retrieve.php on line 36
+[02-Sep-2018 01:50:28 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions_retrieve.php on line 56
+[02-Sep-2018 07:31:28 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/staff_register.php on line 6
+[02-Sep-2018 07:31:28 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/staff_register.php on line 15
+[02-Sep-2018 15:53:49 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/insert_coordinates.php on line 8
+[02-Sep-2018 15:53:49 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/insert_coordinates.php on line 12
+[02-Sep-2018 15:53:49 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/insert_coordinates.php on line 16
+[02-Sep-2018 16:52:29 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/retrieve_coordinates.php on line 3
+[02-Sep-2018 16:52:29 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/retrieve_coordinates.php on line 11
+[03-Sep-2018 10:54:20 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/filtering_vehicles.php on line 4
+[03-Sep-2018 10:54:20 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/filtering_functions.php on line 34
+[10-Sep-2018 19:26:05 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/vehicle_retrieve.php on line 5
+[10-Sep-2018 19:26:05 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions_retrieve.php on line 36
+[10-Sep-2018 19:26:05 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions_retrieve.php on line 56
+[26-Sep-2018 05:42:23 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/newUser.php on line 5
+[26-Sep-2018 05:42:23 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions.php on line 17
+[26-Sep-2018 05:42:23 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions.php on line 25
+[26-Sep-2018 05:42:23 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions.php on line 30
+[26-Sep-2018 14:12:14 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/devices.php on line 4
+[26-Sep-2018 14:12:14 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions.php on line 38
+[26-Sep-2018 14:12:14 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions.php on line 55
+[27-Sep-2018 09:14:30 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/send.php on line 6
+[27-Sep-2018 11:14:30 Africa/Johannesburg] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions_message.php on line 60
+[27-Sep-2018 11:14:30 Africa/Johannesburg] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions_message.php on line 45
+[27-Sep-2018 11:14:30 Africa/Johannesburg] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions_message.php on line 6
+[27-Sep-2018 11:14:30 Africa/Johannesburg] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions_message.php on line 18
+[27-Sep-2018 11:14:30 Africa/Johannesburg] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/functions_message.php on line 32
+[27-Sep-2018 11:14:30 Africa/Johannesburg] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions_message.php on line 35
+[27-Sep-2018 11:14:30 Africa/Johannesburg] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/notification.php on line 28
+[27-Sep-2018 11:14:30 Africa/Johannesburg] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/notification.php on line 31
+[27-Sep-2018 13:08:31 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/insert_coordinates.php on line 8
+[27-Sep-2018 13:08:31 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/insert_coordinates.php on line 12
+[27-Sep-2018 13:08:31 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/insert_coordinates.php on line 16
+[28-Sep-2018 12:13:45 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/test.php on line 5
+[28-Sep-2018 12:13:45 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/test.php on line 15
+[29-Sep-2018 05:13:57 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/upload.php on line 7
+[29-Sep-2018 05:13:57 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions.php on line 72
+[29-Sep-2018 07:13:57 Africa/Johannesburg] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions.php on line 6
+[29-Sep-2018 07:13:57 Africa/Johannesburg] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions.php on line 10
+[29-Sep-2018 07:13:57 Africa/Johannesburg] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/notification.php on line 28
+[29-Sep-2018 07:13:57 Africa/Johannesburg] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/notification.php on line 31
+[30-Sep-2018 14:14:57 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/subscribe.php on line 5
+[30-Sep-2018 14:14:57 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/subscribe_functions.php on line 7
+[30-Sep-2018 14:14:57 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/subscribe_functions.php on line 15
+[03-Oct-2018 19:04:40 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/retrieve_coordinates.php on line 3
+[03-Oct-2018 19:04:40 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/retrieve_coordinates.php on line 11
+[05-Oct-2018 10:56:13 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/filtering_vehicles.php on line 4
+[05-Oct-2018 10:56:13 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/filtering_functions.php on line 34
+[05-Oct-2018 17:59:05 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/retrieve.php on line 4
+[05-Oct-2018 17:59:05 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/functions_retrieve.php on line 8
+[06-Oct-2018 01:49:43 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/register.php on line 6
+[06-Oct-2018 01:49:43 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/register.php on line 10
+[06-Oct-2018 01:49:43 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/register.php on line 14
+[06-Oct-2018 09:33:58 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/trash_vehicle.php on line 4
+[06-Oct-2018 09:33:58 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/trash_vehicle.php on line 9
+[06-Oct-2018 09:33:58 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/trash_vehicle.php on line 17
+[08-Oct-2018 12:37:23 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'mydmc001_dealer'@'localhost' (using password: YES) in /home/mydmc001/public_html/skul/scripts/vehicle.php on line 7
+[08-Oct-2018 12:37:23 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/vehicle.php on line 55
+[08-Oct-2018 12:37:23 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/mydmc001/public_html/skul/scripts/vehicle.php on line 75
